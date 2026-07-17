@@ -1,5 +1,7 @@
 # ARDUINO-curated LINKS
 
-* https://www.youtube.com/@pr0jectmaria
+* pr0jectmaria > https://www.youtube.com/@pr0jectmaria
 
 * https://www.google.com/search?client=firefox-b-d&hs=vEv9&sca_esv=ae1e161c6b0f2947&sxsrf=ANbL-n5xidmnQkh1l9AJ7CUC4jVkk5LpqQ:1769717842925&udm=2&fbs=ADc_l-bpk8W4E-qsVlOvbGJcDwpn4CbM0gHaMP9RLFWGd8kHNhTJmj_r203Jn6uBSzsvMQBP3vyjIxFC5v2daqpURts9MJClqVAsZM-6hrK-uatqewFq_ljlKdXoJ8Pdu-bouEAOfpJIc7oEMcVj4HsBxhezeDCeraBTILcwSk2YxVhOGAJWbXTtafI96swjwk1AJvgTZiaoO7ArRcl9drWmFZtlEXRrrA&q=unir+muchas+matrices+8x8+arduino&sa=X&ved=2ahUKEwici4XbyLGSAxXoIbkGHf8KDwkQtKgLegQIGBAB&biw=1869&bih=893&dpr=1&aic=0#sv=CAMSOBoyKhBlLVFmWVVqU1JsZGRJRnpNMg5RZllValNSbGRkSUZ6TToObHM3Sjk4M0dWMTNFb00gBDgAGAcgspaWuAQwAkoKCAEQAhgCIAIoAg
+
+*  The world's worst video card? > https://www.youtube.com/watch?v=l7rce6IQDWs
