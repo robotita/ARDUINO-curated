@@ -18,6 +18,7 @@ https://www.pcbx.com/community
 RETRO SOUND > https://baobo.animategoods.com/
 DIY electronic musical instruments and soldering kits > https://www.oskitone.com/
 LITTLE PRINTER > https://www.domusweb.it/it/design/2013/02/04/little-printer-a-portrait-in-the-nude.html
+BIRDIE > https://www.kickstarter.com/projects/birdie-scandinavia/birdie-pro-your-fresh-air-pet
 
 
 ## KITTING ARDUINO
