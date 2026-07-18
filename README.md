@@ -11,6 +11,15 @@ Reverse engineering
 * https://reverse.put.as/
 * https://www.righto.com/2025/09/marilou-schultz-navajo-555-weaving.html
 
+## CIRCUIT SIMULATORS
+https://www.pcbx.com/community
+
+## CUL
+RETRO SOUND > https://baobo.animategoods.com/
+DIY electronic musical instruments and soldering kits > https://www.oskitone.com/
+
+
+
 ## KITTING ARDUINO
 https://www.google.com/search?q=knitting+machine+arduino&client=firefox-b-d&hs=gHEV&sca_esv=498f31acae8dba9f&udm=2&biw=1920&bih=893&sxsrf=ANbL-n40g3CB5n8Dc0mPRf3OwMX055w-EQ%3A1778876631634&ei=14AHar6xJqaY1sQP8_Sq4AE&ved=0ahUKEwj--Ojtj7yUAxUmjJUCHXO6ChwQ4dUDCBM&uact=5&oq=knitting+machine+arduino&gs_lp=Egtnd3Mtd2l6LWltZyIYa25pdHRpbmcgbWFjaGluZSBhcmR1aW5vMgQQABgeSKaSAVDcigFYwYwBcAN4AJABAJgBX6ABmAGqAQEyuAEDyAEA-AEC-AEBmAIFoAKnAcICBxAjGMkCGCfCAgYQABgHGB6YAwDiAwUSATEgQIgGAZIHATWgB2CyBwEyuAedAcIHBTEuMy4xyAcGgAgB&sclient=gws-wiz-img#sv=CAMSOBoyKhBlLWNWOUYxbmlzekdlQlFNMg5jVjlGMW5pc3pHZUJRTToOTHdpa0g3OG9lTTlOOE0gBDgAGAcgrsvnwApKCBABGAEgASgB
 
