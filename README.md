@@ -4,6 +4,7 @@
 *  The world's worst video card? > https://www.youtube.com/watch?v=l7rce6IQDWs
 *  https://github.com/kritishmohapatra/100_Days_100_IoT_Projects
 * https://www.google.com/search?client=firefox-b-d&hs=vEv9&sca_esv=ae1e161c6b0f2947&sxsrf=ANbL-n5xidmnQkh1l9AJ7CUC4jVkk5LpqQ:1769717842925&udm=2&fbs=ADc_l-bpk8W4E-qsVlOvbGJcDwpn4CbM0gHaMP9RLFWGd8kHNhTJmj_r203Jn6uBSzsvMQBP3vyjIxFC5v2daqpURts9MJClqVAsZM-6hrK-uatqewFq_ljlKdXoJ8Pdu-bouEAOfpJIc7oEMcVj4HsBxhezeDCeraBTILcwSk2YxVhOGAJWbXTtafI96swjwk1AJvgTZiaoO7ArRcl9drWmFZtlEXRrrA&q=unir+muchas+matrices+8x8+arduino&sa=X&ved=2ahUKEwici4XbyLGSAxXoIbkGHf8KDwkQtKgLegQIGBAB&biw=1869&bih=893&dpr=1&aic=0#sv=CAMSOBoyKhBlLVFmWVVqU1JsZGRJRnpNMg5RZllValNSbGRkSUZ6TToObHM3Sjk4M0dWMTNFb00gBDgAGAcgspaWuAQwAkoKCAEQAhgCIAIoAg
+* Quemar bootloader > https://www.youtube.com/watch?v=JVh1oOQjIX4
 
 ## REVERSE
 Reverse engineering
@@ -24,6 +25,7 @@ https://www.pcbx.com/community
 ## KITTING ARDUINO
 https://www.google.com/search?q=knitting+machine+arduino&client=firefox-b-d&hs=gHEV&sca_esv=498f31acae8dba9f&udm=2&biw=1920&bih=893&sxsrf=ANbL-n40g3CB5n8Dc0mPRf3OwMX055w-EQ%3A1778876631634&ei=14AHar6xJqaY1sQP8_Sq4AE&ved=0ahUKEwj--Ojtj7yUAxUmjJUCHXO6ChwQ4dUDCBM&uact=5&oq=knitting+machine+arduino&gs_lp=Egtnd3Mtd2l6LWltZyIYa25pdHRpbmcgbWFjaGluZSBhcmR1aW5vMgQQABgeSKaSAVDcigFYwYwBcAN4AJABAJgBX6ABmAGqAQEyuAEDyAEA-AEC-AEBmAIFoAKnAcICBxAjGMkCGCfCAgYQABgHGB6YAwDiAwUSATEgQIgGAZIHATWgB2CyBwEyuAedAcIHBTEuMy4xyAcGgAgB&sclient=gws-wiz-img#sv=CAMSOBoyKhBlLWNWOUYxbmlzekdlQlFNMg5jVjlGMW5pc3pHZUJRTToOTHdpa0g3OG9lTTlOOE0gBDgAGAcgrsvnwApKCBABGAEgASgB
 
+
 ## CNC
 * DIY MINI CNC DRAWING MACHINE > https://www.instructables.com/DIY-MINI-CNC-DRAWING-MACHINE/
 * Drawing Instructables Robot  > https://www.instructables.com/Drawing-Instructables-Robot-by-Mini-CNC-Arduino-L2/
@@ -31,9 +33,21 @@ https://www.google.com/search?q=knitting+machine+arduino&client=firefox-b-d&hs=g
 * mini Arduino CNC drawing machine  > https://www.youtube.com/watch?v=KsZn5lQo1DY
 * https://www.google.com/search?sca_esv=8d6b71ab7ddbac70&hl=es&udm=2&fbs=AIIjpHx4nJjfGojPVHhEACUHPiMQht6_BFq6vBIoFFRK7qchKG1cRgcE0P7z3SNizmlu0QnAo31FcWSm9PsQnW8mPH21fKIudaD3R16fQoIwc62HTyRj27qBoUIERDy8P489-vYLBwOe9Aq_0Lju5VFgUsYMToIfrsApPue1Yh_y6q0Y0ft5_qqJrs6eM5qhlYoBx_81Z8HMxt9YlPPVz0B6vorLbkz_THZhobOc8UqHsjHWXbGlFi4&q=l293d+cnc+arduino&sa=X&ved=2ahUKEwjHv9PWuJGRAxWzNTUKHasjOIAQtKgLegQIGBAB&biw=1536&bih=702&dpr=1.25#vhid=IoFSnQ32yKy0RM&vssid=mosaic
 
+## MATRIX
+* LED Matrix Tool > https://gurgleapps.com/tools/matrix
+* https://vegaprocessors.in/blog/interfacing-8x8-led-dot-matrix-to-vega-aries-boards/
+* https://www.instructables.com/DOT-Matrix-8x8-Using-Arduino/
+
 ## OPEN CODE
 * https://ollama.com/
 * https://opencode.ai/docs/es
+
+## ASCII
+https://docpop.org/2024/06/my-ascii-art-workflow/
+
+
+## OTHERS
+* Harvard CS50 > https://www.freecodecamp.org/news/harvard-cs50/
 
 
 ## CREATIVE
