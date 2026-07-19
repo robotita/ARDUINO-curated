@@ -24,7 +24,11 @@ BIRDIE > https://www.kickstarter.com/projects/birdie-scandinavia/birdie-pro-your
 ## KITTING ARDUINO
 https://www.google.com/search?q=knitting+machine+arduino&client=firefox-b-d&hs=gHEV&sca_esv=498f31acae8dba9f&udm=2&biw=1920&bih=893&sxsrf=ANbL-n40g3CB5n8Dc0mPRf3OwMX055w-EQ%3A1778876631634&ei=14AHar6xJqaY1sQP8_Sq4AE&ved=0ahUKEwj--Ojtj7yUAxUmjJUCHXO6ChwQ4dUDCBM&uact=5&oq=knitting+machine+arduino&gs_lp=Egtnd3Mtd2l6LWltZyIYa25pdHRpbmcgbWFjaGluZSBhcmR1aW5vMgQQABgeSKaSAVDcigFYwYwBcAN4AJABAJgBX6ABmAGqAQEyuAEDyAEA-AEC-AEBmAIFoAKnAcICBxAjGMkCGCfCAgYQABgHGB6YAwDiAwUSATEgQIgGAZIHATWgB2CyBwEyuAedAcIHBTEuMy4xyAcGgAgB&sclient=gws-wiz-img#sv=CAMSOBoyKhBlLWNWOUYxbmlzekdlQlFNMg5jVjlGMW5pc3pHZUJRTToOTHdpa0g3OG9lTTlOOE0gBDgAGAcgrsvnwApKCBABGAEgASgB
 
-
+## CNC
+DIY MINI CNC DRAWING MACHINE > https://www.instructables.com/DIY-MINI-CNC-DRAWING-MACHINE/
+Drawing Instructables Robot  > https://www.instructables.com/Drawing-Instructables-Robot-by-Mini-CNC-Arduino-L2/
+[DIY] Mini CNC com Arduino Uno e L293D > https://www.youtube.com/watch?v=rajdQ84fgZQ
+mini Arduino CNC drawing machine  > https://www.youtube.com/watch?v=KsZn5lQo1DY
 
 ## OPEN CODE
 * https://ollama.com/
