@@ -15,20 +15,21 @@ Reverse engineering
 https://www.pcbx.com/community
 
 ## CUL
-RETRO SOUND > https://baobo.animategoods.com/
-DIY electronic musical instruments and soldering kits > https://www.oskitone.com/
-LITTLE PRINTER > https://www.domusweb.it/it/design/2013/02/04/little-printer-a-portrait-in-the-nude.html
-BIRDIE > https://www.kickstarter.com/projects/birdie-scandinavia/birdie-pro-your-fresh-air-pet
+* RETRO SOUND > https://baobo.animategoods.com/
+* DIY electronic musical instruments and soldering kits > https://www.oskitone.com/
+* LITTLE PRINTER > https://www.domusweb.it/it/design/2013/02/04/little-printer-a-portrait-in-the-nude.html
+* BIRDIE > https://www.kickstarter.com/projects/birdie-scandinavia/birdie-pro-your-fresh-air-pet
 
 
 ## KITTING ARDUINO
 https://www.google.com/search?q=knitting+machine+arduino&client=firefox-b-d&hs=gHEV&sca_esv=498f31acae8dba9f&udm=2&biw=1920&bih=893&sxsrf=ANbL-n40g3CB5n8Dc0mPRf3OwMX055w-EQ%3A1778876631634&ei=14AHar6xJqaY1sQP8_Sq4AE&ved=0ahUKEwj--Ojtj7yUAxUmjJUCHXO6ChwQ4dUDCBM&uact=5&oq=knitting+machine+arduino&gs_lp=Egtnd3Mtd2l6LWltZyIYa25pdHRpbmcgbWFjaGluZSBhcmR1aW5vMgQQABgeSKaSAVDcigFYwYwBcAN4AJABAJgBX6ABmAGqAQEyuAEDyAEA-AEC-AEBmAIFoAKnAcICBxAjGMkCGCfCAgYQABgHGB6YAwDiAwUSATEgQIgGAZIHATWgB2CyBwEyuAedAcIHBTEuMy4xyAcGgAgB&sclient=gws-wiz-img#sv=CAMSOBoyKhBlLWNWOUYxbmlzekdlQlFNMg5jVjlGMW5pc3pHZUJRTToOTHdpa0g3OG9lTTlOOE0gBDgAGAcgrsvnwApKCBABGAEgASgB
 
 ## CNC
-DIY MINI CNC DRAWING MACHINE > https://www.instructables.com/DIY-MINI-CNC-DRAWING-MACHINE/
-Drawing Instructables Robot  > https://www.instructables.com/Drawing-Instructables-Robot-by-Mini-CNC-Arduino-L2/
-[DIY] Mini CNC com Arduino Uno e L293D > https://www.youtube.com/watch?v=rajdQ84fgZQ
-mini Arduino CNC drawing machine  > https://www.youtube.com/watch?v=KsZn5lQo1DY
+* DIY MINI CNC DRAWING MACHINE > https://www.instructables.com/DIY-MINI-CNC-DRAWING-MACHINE/
+* Drawing Instructables Robot  > https://www.instructables.com/Drawing-Instructables-Robot-by-Mini-CNC-Arduino-L2/
+* [DIY] Mini CNC com Arduino Uno e L293D > https://www.youtube.com/watch?v=rajdQ84fgZQ
+* mini Arduino CNC drawing machine  > https://www.youtube.com/watch?v=KsZn5lQo1DY
+* https://www.google.com/search?sca_esv=8d6b71ab7ddbac70&hl=es&udm=2&fbs=AIIjpHx4nJjfGojPVHhEACUHPiMQht6_BFq6vBIoFFRK7qchKG1cRgcE0P7z3SNizmlu0QnAo31FcWSm9PsQnW8mPH21fKIudaD3R16fQoIwc62HTyRj27qBoUIERDy8P489-vYLBwOe9Aq_0Lju5VFgUsYMToIfrsApPue1Yh_y6q0Y0ft5_qqJrs6eM5qhlYoBx_81Z8HMxt9YlPPVz0B6vorLbkz_THZhobOc8UqHsjHWXbGlFi4&q=l293d+cnc+arduino&sa=X&ved=2ahUKEwjHv9PWuJGRAxWzNTUKHasjOIAQtKgLegQIGBAB&biw=1536&bih=702&dpr=1.25#vhid=IoFSnQ32yKy0RM&vssid=mosaic
 
 ## OPEN CODE
 * https://ollama.com/
